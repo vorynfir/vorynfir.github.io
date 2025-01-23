@@ -1,0 +1,4 @@
+baseURL = 'https://vorynfir.github.io/'
+languageCode = 'en-us'
+title = 'Illia Blog'
+theme = "hugo-PaperMod"

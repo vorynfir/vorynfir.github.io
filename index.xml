@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Illia Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Illia Blog</description>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jan 2025 15:58:37 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thats Voryn Page</title>
+      <link>http://localhost:1313/posts/vorynpage/</link>
+      <pubDate>Thu, 23 Jan 2025 15:58:37 +0200</pubDate>
+      <guid>http://localhost:1313/posts/vorynpage/</guid>
+      <description>&lt;p&gt;Hello, this is a test sentence, I hope it&amp;rsquo;ll work!!!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
